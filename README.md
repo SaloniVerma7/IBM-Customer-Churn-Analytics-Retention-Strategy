@@ -1,6 +1,6 @@
 # IBM Customer Churn Analytics & Retention Strategy
 
-### End-to-end Customer Churn Analysis using SQL, Python, Machine Learning, and Power BI to identify churn drivers, predict high-risk customers, analyze revenue at risk, and provide actionable retention strategies through interactive dashboards.
+#### End-to-end Customer Churn Analysis using SQL, Python, Machine Learning, and Power BI to identify churn drivers, predict high-risk customers, analyze revenue at risk, and provide actionable retention strategies through interactive dashboards.
 
 ## Business Problem
 
@@ -128,7 +128,7 @@ High Value Customer Analysis
 
 #### Predicted Customer Behaviour Like Who Churn or Stay
 
-<img src="x_Predicted Customer Behaviour.png" width="800">
+<img src="x_Predicted Customer behaviour.png" width="800">
 
 #### Top 10 Reasons Behind the Churn
 
