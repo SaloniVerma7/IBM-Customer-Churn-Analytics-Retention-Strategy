@@ -123,6 +123,21 @@ High Value Customer Analysis
 #### High-value customers create maximum revenue loss
 #### Retention rate identified as 73.5%
 
+#### Churn by Contract
+<img src="u_Churn by Contract.png" width="800">
+
+#### Predicted Customer Behaviour Like Who Churn or Stay
+
+<img src="x_Predicted Customer Behaviour.png" width="800">
+
+#### Top 10 Reasons Behind the Churn
+
+<img src="y_Top 10 Reason of Customer Churn.png" width="800">
+
+#### ML Model Confusion Matrix of Customers Churn
+
+<img src="z_Confusion_Matrix.png" width="800">
+
 ## Machine Learning Model
 
 #### The model predicts:
